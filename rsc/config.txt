@@ -1,0 +1,4 @@
+
+test_bool#true
+test_int#18
+test_float#15.781
